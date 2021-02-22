@@ -1,5 +1,5 @@
 # Powertool
-[![GitHub release](https://img.shields.io/github/release/ELEVENStudio-Main/Powertool)](https://github.com/ELEVENStudio-Main/Powertool/releases/latest)  
+[![GitHub release](https://img.shields.io/github/release/ELEVENStudio-Main/Powertool)](https://github.com/ELEVENStudio-Main/Powertool/releases/latest) 
 [![GitHub license](https://img.shields.io/github/license/ELEVENStudio-Main/Powertool)](https://github.com/ELEVENStudio-Main/Powertool/blob/main/LICENSE)  
 A tool for mythware haters. 极域工具。
 ## Functions
